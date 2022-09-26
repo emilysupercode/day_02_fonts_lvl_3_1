@@ -1,0 +1,37 @@
+h1 {
+    color: white;
+    background-color: #73777B;
+    text-align: center;
+    font-size: 48px;
+    font-family: tahoma, sans-serif;
+    line-height: 75px;
+}
+
+main p {
+    text-transform: uppercase;
+    text-decoration: underline;
+    /* border-bottom: 1px solid #000;
+    padding-bottom: -10px; */
+}
+
+section p {
+    text-transform: lowercase;
+    text-decoration: underline;
+}
+
+h2 {
+    text-align: right;
+    color: lightgray;
+    word-spacing: 20px;
+    letter-spacing: 5px;
+    text-shadow: -2px -2px #000;
+}
+
+ul {
+    background-color: lightgray;
+}
+
+li p {
+    background-color: gray;
+    text-indent: 50px;
+}
